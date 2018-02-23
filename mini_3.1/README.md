@@ -1,2 +1,2 @@
 
-[!alt tekst](https://rawgit.com/NicolineDS/Mini_ex3/master/Flying%20man.png?raw=true)
+[!alt tekst](https://github.com/NicolineDS/Mini_ex3/blob/master/Flying%20man.png?raw=true)
